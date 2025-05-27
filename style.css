@@ -5,7 +5,7 @@
    
    position: fixed;
    
-   width: 2210px;
+   width: 97.3%;
    
    
    
@@ -23,7 +23,7 @@ a{
      align-items: start;
 }
 .image{
-    /* position: fixed; */
+    
     height: 990px;
     border: 2px solid white ;
     display: flex;
